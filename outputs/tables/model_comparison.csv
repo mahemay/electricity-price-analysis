@@ -1,0 +1,3 @@
+Model,RMSE,MAE,R2
+OLS Regression (HAC),6.706,4.376,0.7728
+XGBoost Regressor,7.113,5.082,0.7443
